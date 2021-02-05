@@ -1,0 +1,1 @@
+/usr/bin/postgres "-D" "/tmp/xhe058/test/data" "-c" "unix_socket_directories=/tmp/xhe058/sockets"
